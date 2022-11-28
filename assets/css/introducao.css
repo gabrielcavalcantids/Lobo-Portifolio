@@ -56,12 +56,12 @@
   }
 }
 
-@media screen and (max-width: 500px)  {
+@media screen and (max-width: 500px) {
   .introducao img {
     display: none;
     border: 2px solid red;
   }
   .introducao div h1 {
-    font-size: 3rem;
+    font-size: 2.7rem;
   }
 }
