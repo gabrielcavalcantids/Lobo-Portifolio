@@ -3,7 +3,7 @@
 Esse projeto foi desenvolvido no curso da [Origamid](https://www.origamid.com), qual o design foi feito em 'UI Design para Iniciantes' e o código foi desenvolvido em 'HTML e CSS para Iniciantes'.
 
 
-[Acesse o site aqui](https://gabrielcavalcantids.github.io/Projeto-Lobo---Portifolio-Origamid/)
+[Acesse o site aqui](https://gabrielcavalcantids.github.io/Lobo-Portifolio)
 ## Demonstração
 
 ![Lobo Demo](https://user-images.githubusercontent.com/115542142/204292409-db011af0-e410-4c50-95d9-7685c85e6ea0.png)
@@ -23,7 +23,7 @@ Todo o projeto foi desenvolvido do zero e com responsividade, na estruturação 
 
 ```bash
     # Clone o projeto
-    $ git clone https://github.com/gabrielcavalcantids/Projeto-Lobo---Portifolio-Origamid
+    $ git clone https://github.com/gabrielcavalcantids/Lobo-Portifolio
     
     # Entre no repositório
 
